@@ -6,12 +6,6 @@
   [![My Skills](https://skillicons.dev/icons?i=kotlin,redis,kubernetes)](https://skillicons.dev)<br>
 <br>
 
-  <h3> 📝 Career </h3>
-
-| 기간 | 회사/조직 | Tech Stack
-|:--:|:--|:--|
-| 2025 ~ 2026 | 국방부(sw) | Java, Spring, js, MySQL |
-
   <br>
   <h3>🔥🔥</h3>
 
